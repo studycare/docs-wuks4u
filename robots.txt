@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-drnfff.eurotogel17cny.site/sitemap.xml
